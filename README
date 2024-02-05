@@ -1,3 +1,12 @@
+关于此内核在aarch64下编译 工具链使用 如下arm64的aosp clang + Google gcc_4.9 {具体是clang-r416183+google_gcc-4.9）
+
+https://github.com/tomxi1997/build-aosp-clang-for-arm64/releases/tag/v11
+
+
+
+
+
+
 Linux kernel
 ============
 
